@@ -128,3 +128,5 @@
   translation: はい
 - id: cookie_learn
   translation: 詳細を見る
+- id: pub_conf_discussion
+  translation: Conference discussion

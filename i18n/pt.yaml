@@ -128,3 +128,5 @@
   translation: Entendi!
 - id: cookie_learn
   translation: Saiba mais
+- id: pub_conf_discussion
+  translation: Conference discussion

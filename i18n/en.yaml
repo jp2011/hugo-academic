@@ -155,7 +155,7 @@
   translation: Journal article
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Working paper
 
 - id: pub_report
   translation: Report
@@ -172,6 +172,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_conf_discussion
+  translation: Conference discussion
+
 # Project details
 
 - id: open_project_site
@@ -183,7 +186,7 @@
   translation: Posts
 
 - id: publications
-  translation: Publications
+  translation: Research
 
 - id: talks
   translation: Talks
