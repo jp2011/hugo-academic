@@ -223,3 +223,6 @@
 
 - id: cookie_learn
   translation: Lär dig mer
+
+- id: pub_conf_discussion
+  translation: Conference discussion

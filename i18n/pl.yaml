@@ -128,3 +128,6 @@
   translation: Zrozumiałem!
 - id: cookie_learn
   translation: Dlaczego?
+- id: pub_conf_discussion
+  translation: Conference discussion
+

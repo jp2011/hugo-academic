@@ -128,3 +128,5 @@
   translation: Accepter
 - id: cookie_learn
   translation: En savoir plus
+- id: pub_conf_discussion
+  translation: Conference discussion

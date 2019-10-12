@@ -219,6 +219,7 @@
 
 - id: cookie_dismiss
   translation: Rozumím!
-
 - id: cookie_learn
   translation: Zjistit více
+- id: pub_conf_discussion
+  translation: Conference discussion

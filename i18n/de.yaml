@@ -102,6 +102,8 @@
   translation: Thesis
 - id: pub_patent
   translation: Patent
+- id: pub_conf_discussion
+  translation: Conference discussion
 - id: open_project_site
   translation: Zur Projektseite
 - id: posts
@@ -130,3 +132,5 @@
   translation: Verstanden!
 - id: cookie_learn
   translation: Mehr erfahren
+- id: pub_conf_discussion
+  translation: Conference discussion

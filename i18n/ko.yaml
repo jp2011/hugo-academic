@@ -128,3 +128,5 @@
   translation: 알겠어!
 - id: cookie_learn
   translation: 더 알아보기
+- id: pub_conf_discussion
+  translation: Conference discussion

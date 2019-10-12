@@ -128,3 +128,5 @@
   translation: Ulertua!
 - id: cookie_learn
   translation: Informazio gehiago
+- id: pub_conf_discussion
+  translation: Conference discussion

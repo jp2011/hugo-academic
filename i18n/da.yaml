@@ -98,6 +98,8 @@
   translation: Bøger
 - id: pub_thesis
   translation: Thesis
+- id: pub_conf_discussion
+  translation: Conference discussion
 - id: pub_patent
   translation: Patent
 - id: open_project_site
@@ -128,3 +130,5 @@
   translation: Accepter
 - id: cookie_learn
   translation: Læs mere
+- id: pub_conf_discussion
+  translation: Conference discussion
