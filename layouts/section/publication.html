@@ -22,7 +22,7 @@
           {{ end }}
         {{ end }}
         {{ if gt ($scratch.Get "count") 0 }}
-          <div> <h2>{{ $gen_pub_type }}s </h2></div>
+          <div> <h2>{{ $gen_pub_type }}</h2></div>
           {{ range $pub_page :=  $sorted_pages }}
             {{ $pub_type := index .Params.publication_types 0 }}
             {{ if eq $pub_type (string $type_index) }}
